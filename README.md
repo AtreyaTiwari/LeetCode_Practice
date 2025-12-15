@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
@@ -56,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
