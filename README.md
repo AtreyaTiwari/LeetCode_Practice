@@ -135,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
