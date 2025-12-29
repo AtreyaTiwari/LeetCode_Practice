@@ -9,23 +9,26 @@ class Solution {
             }
             map.get(key).add(str.charAt(2));
         }
-        return helper(bottom,"",0,map);
+        return helper(bottom,"",0,map,new HashSet<>());
     }
-    private static boolean helper(String row,String next,int ind,HashMap<String , List<Character>> map){
+    private static boolean helper(String row,String next,int ind,HashMap<String , List<Character>> map,
+                           HashSet<String> fail){
         if(row.length()==1) return true;
 
         if(next.length()==row.length()-1){
-            return helper(next,"",0,map);
+            return helper(next,"",0,map,fail);
         }
         String key=row.substring(ind,ind+2);
         if(!map.containsKey(key)){
+            fail.add(row);
             return false;
         }
         for(char c:map.get(key)){
-            if(helper(row,next+c,ind+1,map)){
+            if(helper(row,next+c,ind+1,map,fail)){
                 return true;
             }
         }
+        fail.add(row);
         return false;
     }
 
