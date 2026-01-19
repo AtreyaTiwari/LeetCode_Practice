@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2054-two-best-non-overlapping-events) |
 ## Sliding Window
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1975-maximum-matrix-sum) |
