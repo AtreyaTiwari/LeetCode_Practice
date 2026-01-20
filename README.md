@@ -133,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2092-find-all-people-with-secret) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Stack
