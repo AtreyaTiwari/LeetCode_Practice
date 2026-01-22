@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3606-coupon-code-validator) |
 ## Sorting
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2054-two-best-non-overlapping-events) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0086-partition-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
