@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Stack
