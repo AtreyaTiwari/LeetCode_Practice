@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1200-minimum-absolute-difference](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1390-four-divisors) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
