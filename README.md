@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3606-coupon-code-validator) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1992-find-all-groups-of-farmland) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Tree
 |  |
 | ------- |
