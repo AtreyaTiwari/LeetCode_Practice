@@ -7,14 +7,14 @@ class Solution {
             i++;
         }
         if(i==n-1 || i==0) return false;
-        else p=i;
-        i=p;
+        // else p=i;
+        // i=p;
         while(i<n-1 && nums[i]>nums[i+1]){
             i++;
         }
         if(i==n-1) return false;
-        else q=i;
-        i=q;
+        // else q=i;
+        // i=q;
         while(i<=n-2 && nums[i]<nums[i+1]){
             i++;
         }
