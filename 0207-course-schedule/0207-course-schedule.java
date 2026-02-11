@@ -19,17 +19,17 @@ class Solution {
             }
         }
         int count=0;
-        boolean[] vis=new boolean[n];
+        // boolean[] vis=new boolean[n];
         while(!q.isEmpty()){
             int node=q.poll();
             count++;
-            vis[node]=true;
+            // vis[node]=true;
 
             for(int ad:adj.get(node)){
-                if(!vis[ad]){
+                // if(!vis[ad]){
                     indg[ad]--;
                     if(indg[ad]==0) q.add(ad);
-                }
+                // }
             }    
         }
         return count==n;
