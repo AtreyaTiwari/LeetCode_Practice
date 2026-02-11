@@ -9,8 +9,8 @@ class Solution {
 
         int[] indg=new int[n];
         for(int i=0;i<pre.length;i++){
-            adj.get(pre[i][0]).add(pre[i][1]);
-            indg[pre[i][1]]++;
+            adj.get(pre[i][1]).add(pre[i][0]);
+            indg[pre[i][0]]++;
         }
         Queue<Integer> q=new LinkedList<>();
         for(int i=0;i<n;i++){
