@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
 ## Matrix
 |  |
