@@ -4,7 +4,7 @@ class Solution {
         List<Integer> size=new ArrayList<>();
 
         public Disjoint(int n){
-            for(int i=0;i<n;i++){
+            for(int i=0;i<=n;i++){
                 par.add(i);
                 size.add(1);
             }
