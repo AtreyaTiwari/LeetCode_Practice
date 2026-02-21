@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1390-four-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
