@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1975-maximum-matrix-sum) |
