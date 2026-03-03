@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
