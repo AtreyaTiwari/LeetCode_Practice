@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2054-two-best-non-overlapping-events](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
