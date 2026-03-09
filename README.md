@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0696-count-binary-substrings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
