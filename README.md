@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3640-trionic-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3640-trionic-array-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
