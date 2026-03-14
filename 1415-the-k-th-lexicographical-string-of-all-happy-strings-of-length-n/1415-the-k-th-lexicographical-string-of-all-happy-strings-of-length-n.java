@@ -1,15 +1,18 @@
 class Solution {
+    int count=0;
+    String ans="";
     public String getHappyString(int n, int k) {
         char[] arr={'a','b','c'};
-        List<String> list=new ArrayList<>();
         StringBuilder str=new StringBuilder();
-        generate(str,n,list,arr);
-        if(k>list.size()) return "";
-        return list.get(k-1);
+        generate(str,n,arr,k);
+        return count>=k?ans:"";
     }
-    private void generate(StringBuilder str,int n,List<String> list,char[] arr){
+    private void generate(StringBuilder str,int n,char[] arr,int k){
         if(str.length()==n){
-            list.add(str.toString());
+            count++;
+            if(count==k){
+                ans=str.toString();
+            }
             return;
         }
         for(int i=0;i<3;i++){
@@ -17,7 +20,7 @@ class Solution {
                 continue;
             }
             str.append(arr[i]);
-            generate(str,n,list,arr);
+            generate(str,n,arr,k);
             str.deleteCharAt(str.length() - 1);            
         }
     }
