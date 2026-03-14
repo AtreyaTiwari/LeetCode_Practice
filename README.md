@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
