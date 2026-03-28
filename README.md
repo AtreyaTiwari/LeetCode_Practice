@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2054-two-best-non-overlapping-events](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3606-coupon-code-validator](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3713-longest-balanced-substring-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [1992-find-all-groups-of-farmland](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1992-find-all-groups-of-farmland) |
+| [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -474,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
