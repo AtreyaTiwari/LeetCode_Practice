@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -532,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
