@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1020-number-of-enclaves](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1200-minimum-absolute-difference) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0802-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1020-number-of-enclaves) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
