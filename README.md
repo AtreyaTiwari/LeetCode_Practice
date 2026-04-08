@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0552-student-attendance-record-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
