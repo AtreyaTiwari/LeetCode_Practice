@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1980-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
