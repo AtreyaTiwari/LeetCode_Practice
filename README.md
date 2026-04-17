@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
