@@ -7,6 +7,7 @@ class Solution {
                 for (int i = 0; i < q.length(); i++) {
                     if (q.charAt(i) != d.charAt(i)) {
                         mismatch++;
+                        if (mismatch > 2) break;;
                     }
                 }
                 if(mismatch<=2){
