@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1631-path-with-minimum-effort) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1992-find-all-groups-of-farmland](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1992-find-all-groups-of-farmland](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1020-number-of-enclaves) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
