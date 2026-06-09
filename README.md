@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0365-water-and-jug-problem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0210-course-schedule-ii) |
+| [0365-water-and-jug-problem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0210-course-schedule-ii) |
+| [0365-water-and-jug-problem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
