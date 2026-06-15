@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0796-rotate-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
