@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0133-clone-graph) |
