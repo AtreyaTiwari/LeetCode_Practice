@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3379-transformed-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2092-find-all-people-with-secret](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2092-find-all-people-with-secret) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
@@ -567,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
