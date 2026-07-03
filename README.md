@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
