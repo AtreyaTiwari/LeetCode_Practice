@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Brainteaser
 |  |
@@ -652,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1392-longest-happy-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
