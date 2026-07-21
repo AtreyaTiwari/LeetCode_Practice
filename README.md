@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3713-longest-balanced-substring-i) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3713-longest-balanced-substring-i) |
 ## Union-Find
