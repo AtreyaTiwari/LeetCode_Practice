@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
+| [3536-maximum-product-of-two-digits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3634-minimum-removals-to-balance-array) |
