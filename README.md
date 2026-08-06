@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3433-count-mentions-per-user](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3433-count-mentions-per-user) |
 | [3536-maximum-product-of-two-digits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3713-longest-balanced-substring-i) |
