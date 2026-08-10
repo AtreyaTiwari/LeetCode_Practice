@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 ## String Matching
 |  |
 | ------- |
@@ -693,4 +696,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
