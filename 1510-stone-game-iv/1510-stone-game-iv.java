@@ -1,9 +1,9 @@
 class Solution {
     public boolean winnerSquareGame(int n) {
-        int[] dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return check(n,dp)==1;
-        // return tabu(n);
+        // int[] dp=new int[n+1];
+        // Arrays.fill(dp,-1);
+        // return check(n,dp)==1;
+        return tabu(n);
     }
     private static boolean tabu(int n){
         boolean[] dp=new boolean[n+1];
