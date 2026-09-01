@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3606-coupon-code-validator) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3606-coupon-code-validator](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3714-longest-balanced-substring-ii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union Find
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Tree
