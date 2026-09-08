@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0174-dungeon-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0552-student-attendance-record-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0174-dungeon-game) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0994-rotting-oranges) |
