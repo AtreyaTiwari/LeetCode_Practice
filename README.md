@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
+| [0542-01-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0365-water-and-jug-problem) |
+| [0542-01-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0994-rotting-oranges) |
