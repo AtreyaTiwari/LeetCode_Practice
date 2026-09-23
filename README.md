@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0365-water-and-jug-problem) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0365-water-and-jug-problem) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0994-rotting-oranges) |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
