@@ -1,7 +1,7 @@
 class Solution {
     class Pair{
         int i,j,s;
-        public Pair(int i,int j,int s){
+        Pair(int i,int j,int s){
             this.i=i;this.j=j;this.s=s;
         }
     }
@@ -11,28 +11,31 @@ class Solution {
         boolean[][] vis=new boolean[m][n];
         int[][] ans=new int[m][n];
         Queue<Pair> q=new LinkedList<>();
+        
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(mat[i][j]==0){
-                    vis[i][j]=true;
                     q.add(new Pair(i,j,0));
+                    vis[i][j]=true;
                 }
             }
         }
-        int[] delR={-1,0,1,0};
-        int[] delC={0,1,0,-1};
+        int[] dx={-1,0,1,0};
+        int[] dy={0,1,0,-1};
         while(!q.isEmpty()){
-            Pair p=q.poll();
-            int i=p.i,j=p.j,s=p.s;
+            int i=q.peek().i;
+            int j=q.peek().j;
+            int s=q.peek().s;
+            q.remove();
             ans[i][j]=s;
-
+            
             for(int k=0;k<4;k++){
-                int nR=i+delR[k];
-                int nC=j+delC[k];
+                int nx=i+dx[k];
+                int ny=j+dy[k];
 
-                if(nR<m&&nR>=0 && nC<n&&nC>=0 && !vis[nR][nC]){
-                    vis[nR][nC]=true;
-                    q.add(new Pair(nR,nC,s+1));
+                if(nx>=0 && nx<m && ny>=0 && ny<n && !vis[nx][ny]){
+                    vis[nx][ny]=true;
+                    q.add(new Pair(nx,ny,s+1));
                 }
             }
         }
