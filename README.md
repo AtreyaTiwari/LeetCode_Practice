@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0086-partition-list](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0696-count-binary-substrings) |
@@ -782,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2360-longest-cycle-in-a-graph) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
