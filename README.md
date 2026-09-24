@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0133-clone-graph) |
 | [0242-valid-anagram](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0840-magic-squares-in-grid) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
