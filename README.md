@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1260-shift-2d-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
