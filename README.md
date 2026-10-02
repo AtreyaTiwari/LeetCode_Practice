@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0133-clone-graph) |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0740-delete-and-earn) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0713-subarray-product-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
@@ -758,12 +762,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -826,4 +832,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
