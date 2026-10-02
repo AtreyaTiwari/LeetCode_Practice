@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -749,11 +750,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Recursion
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1392-longest-happy-prefix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Number Theory
 |  |
 | ------- |
