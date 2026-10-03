@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
