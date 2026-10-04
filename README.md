@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1980-find-unique-binary-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Z Algorithm
 |  |
