@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0953-verifying-an-alien-dictionary) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
