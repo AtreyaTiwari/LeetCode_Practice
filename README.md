@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
