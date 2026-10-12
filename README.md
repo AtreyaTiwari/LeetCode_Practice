@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2615-sum-of-distances](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AtreyaTiwari/LeetCode_Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
