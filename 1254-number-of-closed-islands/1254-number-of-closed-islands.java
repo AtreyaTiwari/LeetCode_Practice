@@ -17,7 +17,10 @@ class Solution {
         return count;
     }
     private static boolean dfs(int i,int j,int[][] grid,boolean[][] vis,int n,int m){
-        if(i==0 || i==n-1 || j==0 || j==m-1) return grid[i][j]==1;
+        if(i==0 || i==n-1 || j==0 || j==m-1){
+            vis[i][j]=true;
+            return grid[i][j]==1;
+        }
         
         if(grid[i][j]==1){
             return true;
@@ -30,7 +33,7 @@ class Solution {
         boolean up=dfs(i-1,j,grid,vis,n,m);
         boolean right=dfs(i,j+1,grid,vis,n,m);
         boolean down=dfs(i+1,j,grid,vis,n,m);
-
-        return left && right && up && down;
+        
+        return left & up & right & down;
     }
 }
